@@ -1,1 +1,3 @@
-com\collins\App.class
+com\collins\Game.class
+com\collins\Shader\ShaderProgram.class
+com\Utils\GenUtils.class
